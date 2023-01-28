@@ -1,0 +1,4 @@
+# Calculator-GUI
+Side project that I programmed in my junior year of high school.
+
+This calculator was built using Java and the JFrame library. It allows users to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The user interface was created using the JFrame library, which made it easy to create a visually appealing and user-friendly interface. The calculator includes buttons for numbers and mathematical operations, as well as a display screen that shows the current calculation. Users can also perform calculations using the keyboard, making it easy to use the calculator with one hand. The calculator is easy to use, perfect for students, professionals, or anyone who needs to perform quick calculations. The code is available on Github, and it is open-source, so anyone can use it to create their own calculator or use it as a base to build their own calculator app.
